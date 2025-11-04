@@ -1,31 +1,53 @@
 # Gabriele Vittorio Coralluzzo
 
-### Determined and analytical learner
+### “Determined and passionate about Cybersecurity and Malware Analysis.”
 
 ---
 
-Hi 👋  
-I am **Gabriele Vittorio Coralluzzo**, a Computer Science graduate from the **University of Salerno** and a current **Master’s student in Cybersecurity**.  
-My interests focus on **malware analysis**, **ethical hacking**, and **system security**.  
-I’m passionate about understanding cyber threats and developing effective defense strategies through research and experimentation.
----
+## 👋 About Me
 
-### 🧠 Technical Skills
-- **Languages:** C (basic), Python (basic), Java (basic)
-- **Frameworks & Tools:** Flutter, Kali Linux, Wireshark, Burp Suite  
-- **Domains of Interest:** Malware Analysis, Ethical Hacking, Network Security  
+I am **Gabriele Vittorio Coralluzzo**, a **Computer Science graduate** from the *University of Salerno (Italy)* and currently pursuing a **Master’s degree in Cybersecurity**.  
+My main academic interests include **malware analysis**, **ethical hacking**, and **system security**.  
+I am particularly interested in exploring the techniques and methodologies used to detect, classify, and neutralize malicious software in modern computing environments.  
+
+I aim to combine theoretical research with practical application, continuously improving my knowledge of information and network security.
 
 ---
 
-### 🎓 Education
-- **MSc in Cybersecurity** — University of Salerno *(in progress)*  
-- **BSc in Computer Science** — University of Salerno
+## 🧠 Technical Skills
+
+### 🧩 Programming Languages
+![C](https://img.shields.io/badge/C-Basic-lightgrey?logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Basic-lightgrey?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Basic-lightgrey?logo=openjdk&logoColor=white)
+
+### ⚙️ Frameworks & Tools
+![Flutter](https://img.shields.io/badge/Flutter-Framework-blue?logo=flutter&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-Security_Tools-blue?logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-Network_Analysis-blue?logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-PenTesting_Tool-orange?logo=burpsuite&logoColor=white)
 
 ---
 
-### 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/gabriele-vittorio-coralluzzo-891248228/)  
-[![GitHub](https://img.shields.io/badge/GitHub-GabrieleVittorioCoralluzzo-black?logo=github)](https://github.com/GabrieleVittorioCoralluzzo)
+## 📘 Current Focus
+Currently, I am expanding my knowledge in **malware analysis**, focusing on:  
+- Static and dynamic analysis of malicious code  
+- Sandbox evasion techniques  
+- Behavioral and heuristic detection methods  
+
+---
+
+## 🚀 Selected Projects
+
+- **Malware Analysis Study** — Academic research project exploring malware classification and behavioral detection.  
+- **Def-Net** — An application for cybersec
+
+---
+
+## 📫 Contact
+
+- **LinkedIn:** [Gabriele Vittorio Coralluzzo](https://www.linkedin.com/in/gabriele-vittorio-coralluzzo-891248228/)  
+- **GitHub:** [@GabrieleVittorioCoralluzzo](https://github.com/GabrieleVittorioCoralluzzo)
 
 ---
 
