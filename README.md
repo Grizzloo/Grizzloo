@@ -8,15 +8,6 @@ Hi 👋
 I am **Gabriele Vittorio Coralluzzo**, a Computer Science graduate from the **University of Salerno** and a current **Master’s student in Cybersecurity**.  
 My interests focus on **malware analysis**, **ethical hacking**, and **system security**.  
 I’m passionate about understanding cyber threats and developing effective defense strategies through research and experimentation.
-
----
-
-### 📊 GitHub Stats
-
-![Gabriele Vittorio Coralluzzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrieleVittorioCoralluzzo&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieleVittorioCoralluzzo&layout=compact&theme=github_dark&hide_border=true)
-
 ---
 
 ### 🧠 Technical Skills
