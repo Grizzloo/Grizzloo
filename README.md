@@ -47,7 +47,6 @@ Currently, I am expanding my knowledge in **malware analysis**, focusing on:
 ## 📫 Contact
 
 - **LinkedIn:** [Gabriele Vittorio Coralluzzo](https://www.linkedin.com/in/gabriele-vittorio-coralluzzo-891248228/)  
-- **GitHub:** [@GabrieleVittorioCoralluzzo](https://github.com/GabrieleVittorioCoralluzzo)
 
 ---
 
