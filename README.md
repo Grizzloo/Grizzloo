@@ -20,13 +20,6 @@ I aim to combine theoretical research with practical application, continuously i
 ![C](https://img.shields.io/badge/C-Basic-lightgrey?logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Basic-lightgrey?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-Basic-lightgrey?logo=openjdk&logoColor=white)
-
-### ⚙️ Frameworks & Tools
-![Flutter](https://img.shields.io/badge/Flutter-Framework-blue?logo=flutter&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-Security_Tools-blue?logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-Network_Analysis-blue?logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-PenTesting_Tool-orange?logo=burpsuite&logoColor=white)
-
 ---
 
 ## 📘 Current Focus
